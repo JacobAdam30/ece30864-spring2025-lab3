@@ -1,0 +1,1 @@
+Pros of agile: Allows for a dynamic change of requirements, and value is added to the customer after every sprint. Cons: Since customer is allowed to change requirements, tasks may frequently be added back to the backlog. Also, you have a limit on how many tasks you can have at a time, which can possibly be an issue
