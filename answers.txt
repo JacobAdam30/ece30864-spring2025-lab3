@@ -2,4 +2,20 @@ Pros and cons of agile: Allows for a dynamic change of requirements, and value i
 
 A product manager deals more with the stakeholders, and  manages the release of the products. The scrum master deals more with the development team and sprint planning.
 
+Sprint planning meeting: 
 
+Figure out what needs to be accomplished for the sprint.
+
+Assign the different story points to different members of the team
+
+Daily Scrum meeting:
+
+Discuss development plans for the day to contribute to the sprint
+
+Usually relatively short
+
+Retrospective meeting:
+
+End of sprint meeting to discuss completed work
+
+Move incomplete work back to the backlog
